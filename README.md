@@ -31,8 +31,8 @@
 
 - Analyzed and classified genetic variations into nine distinct classes based on evidence from clinical literature, ensuring accurate categorization.
 - Conducted exploratory data analysis (EDA) to clean the data, identify statistical patterns, detect anomalies, and assess feature distributions. 
--Applied One-Hot encoding and Response Encoding for categorical features based on their significant relationship with the target variable. 
--Trained and evaluated multiple models including Logistic Regression, Linear SVM, Naive Bayes, Random Forest Classifier, and Stacked Models.
+- Applied One-Hot encoding and Response Encoding for categorical features based on their significant relationship with the target variable. 
+- Trained and evaluated multiple models including Logistic Regression, Linear SVM, Naive Bayes, Random Forest Classifier, and Stacked Models.
 
 ## Academic Projects
 ### Econometrics (_Jan 2024 – May 2024_) 
