@@ -37,7 +37,7 @@
 ## Academic Projects
 ### Econometrics (_Jan 2024 – May 2024_) 
 
--Tested the impact of Special Economic Zones on capital formation, invested capital and export revenue to assess their economic contribution. 
+- Tested the impact of Special Economic Zones on capital formation, invested capital and export revenue to assess their economic contribution. 
 - Implemented two logistic regression models with dummy variables using STATA to evaluate the impact of SEZs in economic outcomes. 
 - Concluded that SEZs contribute to boosting export revenue for the country and have the positive relationship between SEZ status and GCF. 
 
