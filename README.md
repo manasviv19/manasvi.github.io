@@ -1,1 +1,4 @@
-# manasvi.github.io
+# Data Scientist
+
+### Education
+MSc Mathematics, IIT Madras
